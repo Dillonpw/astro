@@ -327,7 +327,7 @@ importers:
   examples/hackernews:
     dependencies:
       '@astrojs/node':
-        specifier: ^8.3.1
+        specifier: ^8.3.2
         version: link:../../packages/integrations/node
       astro:
         specifier: ^4.11.0
@@ -342,7 +342,7 @@ importers:
   examples/middleware:
     dependencies:
       '@astrojs/node':
-        specifier: ^8.3.1
+        specifier: ^8.3.2
         version: link:../../packages/integrations/node
       astro:
         specifier: ^4.11.0
@@ -376,7 +376,7 @@ importers:
   examples/ssr:
     dependencies:
       '@astrojs/node':
-        specifier: ^8.3.1
+        specifier: ^8.3.2
         version: link:../../packages/integrations/node
       '@astrojs/svelte':
         specifier: ^5.6.0
@@ -409,7 +409,7 @@ importers:
   examples/view-transitions:
     devDependencies:
       '@astrojs/node':
-        specifier: ^8.3.1
+        specifier: ^8.3.2
         version: link:../../packages/integrations/node
       '@astrojs/tailwind':
         specifier: ^5.1.0
